@@ -1,0 +1,7 @@
+.buttonGrid{
+	display: flex;
+	flex-direction: row;
+	width: 250px;
+	flex-wrap: wrap;
+	border: 1px solid red;
+}
